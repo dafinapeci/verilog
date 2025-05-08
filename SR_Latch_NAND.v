@@ -1,5 +1,3 @@
-// Ornek: 22118080094 Dafina Peci
-
 module SR_Latch_NAND (
     input S,      // Active LOW Set
     input R,      // Active LOW Reset
