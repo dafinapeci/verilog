@@ -1,6 +1,3 @@
-
-// Ornek: 22118080094 Dafina Peci
-
 module D_Latch (
     input D,      // Active LOW Set
     input En,      // Active LOW Reset
